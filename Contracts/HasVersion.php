@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace MoonShine\AssetManager;
+namespace MoonShine\AssetManager\Contracts;
 
 interface HasVersion
 {

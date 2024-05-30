@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace MoonShine\AssetManager;
+namespace MoonShine\AssetManager\Contracts;
 
 use Illuminate\Contracts\Support\Htmlable;
 use Stringable;
