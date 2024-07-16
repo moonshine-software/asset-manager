@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace MoonShine\AssetManager\Contracts;
 
-interface HasVersion
+interface HasVersionContact
 {
     public function version(string|int|null $version): self;
 
